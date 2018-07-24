@@ -1,0 +1,18 @@
+export const RECEIVE_TYPENAME = 'receive_typename'
+export const RECEIVE_FOCUS_LIST = 'receive_focus_list'
+export const RECEIVE_POLICY_DESCLIST = 'receive_policy_desclist'
+export const RECEIVE_TAGLIST = 'receive_taglist'
+export const RECEIVE_NEWITEMLIST = 'receive_newitemlist'
+export const RECEIVE_POPULARITEMLIST = 'receive_popularItemList'
+export const RECEIVE_TOPICLIST = 'receive_topiclist'
+export const RECEIVE_CATELISTS = 'receive_catelists'
+export const RECEIVE_BANNER = 'receive_banner'
+export const RECEIVE_RECOMMEND = 'receive_recommend'
+export const RECEIVE_COLUMN = 'receive_column'
+export const RECEIVE_TENFIFTEEN = 'receive_tenfifteen'
+export const RECEIVE_ZHENPIN = 'receive_zhenpin'
+export const RECEIVE_YXLOOK = 'receive_yxLook'
+export const RECEIVE_FINDMORES = 'receive_findMores'
+
+export const RECEIVE_CATEGORYS = 'receive_categorys'
+
